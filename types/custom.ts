@@ -19,3 +19,11 @@ export type calenderDate = {
   start: Date | undefined | string;
   end: Date | undefined | string;
 };
+
+export interface ImageType {
+  alt: string;
+  height?: number;
+  src: string;
+  width?: number;
+  isFill?: boolean;
+}

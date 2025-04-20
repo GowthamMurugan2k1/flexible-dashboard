@@ -1,3 +1,4 @@
+import { ImageType } from "@/types/custom";
 import Image from "next/image";
 
 const CustomImage = ({

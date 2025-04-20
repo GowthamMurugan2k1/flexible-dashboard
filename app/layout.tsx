@@ -3,9 +3,9 @@ import { Inter } from "next/font/google";
 import "./globals.css";
 import Sidebar from "@/components/rootcomps/sidebar/sidebar";
 import Header from "@/components/rootcomps/header/header";
-import { SidebarProvider, SidebarTrigger } from "@/components/ui/sidebar";
+import { SidebarProvider } from "@/components/ui/sidebar";
 import StoreProvider from "@/providers/ReduxProvider";
-import SelectedRow from "@/components/custom/SelectedRow";
+
 
 const inter = Inter({
   variable: "--font-Inter",
