@@ -1,14 +1,14 @@
 import type { Metadata } from "next";
-import { Geist, Geist_Mono } from "next/font/google";
+import { Inter } from "next/font/google";
 import "./globals.css";
+import Sidebar from "@/components/rootcomps/sidebar/sidebar";
+import Header from "@/components/rootcomps/header/header";
+import { SidebarProvider, SidebarTrigger } from "@/components/ui/sidebar";
+import StoreProvider from "@/providers/ReduxProvider";
+import SelectedRow from "@/components/custom/SelectedRow";
 
-const geistSans = Geist({
-  variable: "--font-geist-sans",
-  subsets: ["latin"],
-});
-
-const geistMono = Geist_Mono({
-  variable: "--font-geist-mono",
+const inter = Inter({
+  variable: "--font-Inter",
   subsets: ["latin"],
 });
 
@@ -25,9 +25,19 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body
-        className={`${geistSans.variable} ${geistMono.variable} antialiased`}
+        className={`${inter.variable} antialiased bg-[var(--global-bg)] overflow-hidden`}
       >
-        {children}
+        <StoreProvider>
+          <Header />
+          <SidebarProvider>
+            <Sidebar />
+
+              
+            <div className="relative overflow-y-auto h-dvh w-full py-3 px-5">
+              {children}
+            </div>
+          </SidebarProvider>
+        </StoreProvider>
       </body>
     </html>
   );

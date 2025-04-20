@@ -1,0 +1,272 @@
+[
+  {
+    "id": 1,
+    "tax_year": "2017",
+    "company": "Alabama and Gulf Coast Railway LLC",
+    "state": "AL",
+    "assessor": "Winter County Tax Collector",
+    "account": "L$/R60",
+    "appealed_del": "June 25, 202"
+  },
+  {
+    "id": 2,
+    "tax_year": "2018",
+    "company": "First Coast Railroad Inc.",
+    "state": "CA",
+    "assessor": "Camden County Tax",
+    "account": "UTL150, Camden County",
+    "appealed_del": "June 25, 202"
+  },
+  {
+    "id": 3,
+    "tax_year": "2019",
+    "company": "Buffalo and Pittsburgh Railroad, Inc.",
+    "state": "NY",
+    "assessor": "City Of Buffalo Assessor",
+    "account": "10782900",
+    "appealed_del": "June 25, 202"
+  },
+  {
+    "id": 4,
+    "tax_year": "2020",
+    "company": "Comicola Valley Railway, LLC",
+    "state": "OH",
+    "assessor": "Elfcohville Tax Collector",
+    "account": "Q43889 38.004-1-31",
+    "appealed_del": "June 25, 202"
+  },
+  {
+    "id": 5,
+    "tax_year": "2021",
+    "company": "Georgia Central Railway LP",
+    "state": "KY",
+    "assessor": "Pike County Revenue Commissioner",
+    "account": "PURUT - 000760 (TROF)-5.0054",
+    "appealed_del": "June 25, 202"
+  },
+  {
+    "id": 6,
+    "tax_year": "2022",
+    "company": "KWT Railway Inc.",
+    "state": "UT",
+    "assessor": "City Of Dublin",
+    "account": "400 294,400 284",
+    "appealed_del": "June 25, 202"
+  },
+  {
+    "id": 7,
+    "tax_year": "2023",
+    "company": "Red River Northern Railroad",
+    "state": "TX",
+    "assessor": "Travis County Tax Office",
+    "account": "RR-2023-4567",
+    "appealed_del": "June 25, 202"
+  },
+  {
+    "id": 8,
+    "tax_year": "2024",
+    "company": "Silver Mountain Express",
+    "state": "CO",
+    "assessor": "Denver County Assessor",
+    "account": "SME-2024-7890",
+    "appealed_del": "June 25, 202"
+  },
+  {
+    "id": 9,
+    "tax_year": "2016",
+    "company": "Atlantic Coastal Line",
+    "state": "FL",
+    "assessor": "Miami-Dade Tax Collector",
+    "account": "ACL-2016-1234",
+    "appealed_del": "June 25, 202"
+  },
+  {
+    "id": 10,
+    "tax_year": "2015",
+    "company": "Pacific Northwest Rail",
+    "state": "WA",
+    "assessor": "King County Treasury",
+    "account": "PNW-2015-5678",
+    "appealed_del": "June 25, 202"
+  },
+  {
+    "id": 11,
+    "tax_year": "2014",
+    "company": "Desert Star Line",
+    "state": "AZ",
+    "assessor": "Maricopa County Assessor",
+    "account": "DSL-2014-9012",
+    "appealed_del": "June 25, 202"
+  },
+  {
+    "id": 12,
+    "tax_year": "2013",
+    "company": "Great Lakes Central",
+    "state": "MI",
+    "assessor": "Wayne County Treasurer",
+    "account": "GLC-2013-3456",
+    "appealed_del": "June 25, 202"
+  },
+  {
+    "id": 13,
+    "tax_year": "2012",
+    "company": "Ozark Mountain Railway",
+    "state": "AR",
+    "assessor": "Pulaski County Tax Collector",
+    "account": "OMR-2012-7891",
+    "appealed_del": "June 25, 202"
+  },
+  {
+    "id": 14,
+    "tax_year": "2011",
+    "company": "Green Mountain Railroad",
+    "state": "VT",
+    "assessor": "Chittenden County Clerk",
+    "account": "GMR-2011-2345",
+    "appealed_del": "June 25, 202"
+  },
+  {
+    "id": 15,
+    "tax_year": "2010",
+    "company": "Lone Star Freight Line",
+    "state": "TX",
+    "assessor": "Harris County Tax Office",
+    "account": "LSFL-2010-6789",
+    "appealed_del": "June 25, 202"
+  },
+  {
+    "id": 16,
+    "tax_year": "2009",
+    "company": "Prairie State Lines",
+    "state": "IL",
+    "assessor": "Cook County Assessor",
+    "account": "PSL-2009-0123",
+    "appealed_del": "June 25, 202"
+  },
+  {
+    "id": 17,
+    "tax_year": "2008",
+    "company": "Chesapeake Atlantic",
+    "state": "MD",
+    "assessor": "Baltimore City Finance",
+    "account": "CA-2008-4567",
+    "appealed_del": "June 25, 202"
+  },
+  {
+    "id": 18,
+    "tax_year": "2007",
+    "company": "Golden Gate Short Line",
+    "state": "CA",
+    "assessor": "San Francisco Treasurer",
+    "account": "GGSL-2007-8901",
+    "appealed_del": "June 25, 202"
+  },
+  {
+    "id": 19,
+    "tax_year": "2006",
+    "company": "Dakota Plains Railway",
+    "state": "ND",
+    "assessor": "Cass County Auditor",
+    "account": "DPR-2006-2345",
+    "appealed_del": "June 25, 202"
+  },
+  {
+    "id": 20,
+    "tax_year": "2005",
+    "company": "Blue Ridge Mountain Line",
+    "state": "NC",
+    "assessor": "Mecklenburg County Tax",
+    "account": "BRML-2005-6789",
+    "appealed_del": "June 25, 202"
+  },
+  {
+    "id": 21,
+    "tax_year": "2004",
+    "company": "Sunset Valley Railroad",
+    "state": "NM",
+    "assessor": "Bernalillo County Assessor",
+    "account": "SVR-2004-0123",
+    "appealed_del": "June 25, 202"
+  },
+  {
+    "id": 22,
+    "tax_year": "2003",
+    "company": "Cascade Pacific Railroad",
+    "state": "OR",
+    "assessor": "Multnomah County Treasury",
+    "account": "CPR-2003-4567",
+    "appealed_del": "June 25, 202"
+  },
+  {
+    "id": 23,
+    "tax_year": "2002",
+    "company": "Midwest Continental Rail",
+    "state": "NE",
+    "assessor": "Douglas County Clerk",
+    "account": "MCR-2002-2023",
+    "appealed_del": "June 25, 202"
+  },
+  {
+    "id": 24,
+    "tax_year": "2001",
+    "company": "Gulf Shore Lines",
+    "state": "FL",
+    "assessor": "Miami-Dade Tax",
+    "account": "GSL-2001-7891",
+    "appealed_del": "June 25, 202"
+  },
+  {
+    "id": 25,
+    "tax_year": "2000",
+    "company": "Rocky Mountain Express",
+    "state": "MT",
+    "assessor": "Yellowstone County",
+    "account": "RME-2000-3456",
+    "appealed_del": "June 25, 202"
+  },
+  {
+    "id": 26,
+    "tax_year": "1999",
+    "company": "Ohio Valley Freight",
+    "state": "OH",
+    "assessor": "Hamilton County",
+    "account": "OVF-1999-7890",
+    "appealed_del": "June 25, 202"
+  },
+  {
+    "id": 27,
+    "tax_year": "1998",
+    "company": "Texas Star Line",
+    "state": "TX",
+    "assessor": "Bexar County",
+    "account": "TSL-1998-1234",
+    "appealed_del": "June 25, 202"
+  },
+  {
+    "id": 28,
+    "tax_year": "1997",
+    "company": "Carolina Coastal Rail",
+    "state": "SC",
+    "assessor": "Charleston County",
+    "account": "CCR-1997-5678",
+    "appealed_del": "June 25, 202"
+  },
+  {
+    "id": 29,
+    "tax_year": "1996",
+    "company": "Nevada Desert Line",
+    "state": "NV",
+    "assessor": "Clark County",
+    "account": "NDL-1996-9012",
+    "appealed_del": "June 25, 202"
+  },
+  {
+    "id": 30,
+    "tax_year": "1995",
+    "company": "New England Central",
+    "state": "CT",
+    "assessor": "Hartford County",
+    "account": "NEC-1995-3456",
+    "appealed_del": "June 25, 202"
+  }
+]
